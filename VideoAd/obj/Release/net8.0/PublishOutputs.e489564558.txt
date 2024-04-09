@@ -1,0 +1,7 @@
+/var/folders/zy/mhzj0nx50t73sdsl6pj5c0lr0000gn/T/rider-publish4258521005752303204/VideoAd
+/var/folders/zy/mhzj0nx50t73sdsl6pj5c0lr0000gn/T/rider-publish4258521005752303204/appsettings.Development.json
+/var/folders/zy/mhzj0nx50t73sdsl6pj5c0lr0000gn/T/rider-publish4258521005752303204/appsettings.json
+/var/folders/zy/mhzj0nx50t73sdsl6pj5c0lr0000gn/T/rider-publish4258521005752303204/VideoAd.dll
+/var/folders/zy/mhzj0nx50t73sdsl6pj5c0lr0000gn/T/rider-publish4258521005752303204/VideoAd.deps.json
+/var/folders/zy/mhzj0nx50t73sdsl6pj5c0lr0000gn/T/rider-publish4258521005752303204/VideoAd.runtimeconfig.json
+/var/folders/zy/mhzj0nx50t73sdsl6pj5c0lr0000gn/T/rider-publish4258521005752303204/VideoAd.pdb

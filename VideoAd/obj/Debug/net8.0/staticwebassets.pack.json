@@ -1,0 +1,1053 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/obj/Debug/net8.0/scopedcss/projectbundle/VideoAd.bundle.scp.css",
+      "PackagePath": "staticwebassets/VideoAd.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Frame 5.png",
+      "PackagePath": "staticwebassets/Frame 5.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 13.svg",
+      "PackagePath": "staticwebassets/Group 13.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 16.svg",
+      "PackagePath": "staticwebassets/Group 16.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 22.svg",
+      "PackagePath": "staticwebassets/Group 22.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 23.png",
+      "PackagePath": "staticwebassets/Group 23.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 25.png",
+      "PackagePath": "staticwebassets/Group 25.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 35907.png",
+      "PackagePath": "staticwebassets/Group 35907.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 359071.png",
+      "PackagePath": "staticwebassets/Group 359071.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 35913.png",
+      "PackagePath": "staticwebassets/Group 35913.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 35914.png",
+      "PackagePath": "staticwebassets/Group 35914.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 35923.png",
+      "PackagePath": "staticwebassets/Group 35923.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 43.png",
+      "PackagePath": "staticwebassets/Group 43.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 44.png",
+      "PackagePath": "staticwebassets/Group 44.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Group 71.png",
+      "PackagePath": "staticwebassets/Group 71.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/Vector.svg",
+      "PackagePath": "staticwebassets/Vector.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/adriver.png",
+      "PackagePath": "staticwebassets/adriver.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/adsin.png",
+      "PackagePath": "staticwebassets/adsin.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/adsurf.pdf",
+      "PackagePath": "staticwebassets/adsurf.pdf"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/antifraud.png",
+      "PackagePath": "staticwebassets/antifraud.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/arrow_.svg",
+      "PackagePath": "staticwebassets/arrow_.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/arrowpink.svg",
+      "PackagePath": "staticwebassets/arrowpink.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/bot.svg",
+      "PackagePath": "staticwebassets/bot.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/css/app.min.css",
+      "PackagePath": "staticwebassets/css/app.min.css"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/fonts/MPLUS1p-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/MPLUS1p-Black.ttf"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/fonts/MPLUS1p-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/MPLUS1p-Regular.ttf"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/fonts/RussoOne-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/RussoOne-Regular.ttf"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/fonts/SFProDisplay-Bold.woff",
+      "PackagePath": "staticwebassets/fonts/SFProDisplay-Bold.woff"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/fonts/SFProDisplay-Bold.woff2",
+      "PackagePath": "staticwebassets/fonts/SFProDisplay-Bold.woff2"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/footer1235.svg",
+      "PackagePath": "staticwebassets/footer1235.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/goldlines 10.png",
+      "PackagePath": "staticwebassets/goldlines 10.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/goldlines 11.png",
+      "PackagePath": "staticwebassets/goldlines 11.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/goldlines 4.png",
+      "PackagePath": "staticwebassets/goldlines 4.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/goldlines 7.png",
+      "PackagePath": "staticwebassets/goldlines 7.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/goldlines 8.png",
+      "PackagePath": "staticwebassets/goldlines 8.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/goldlines 9.png",
+      "PackagePath": "staticwebassets/goldlines 9.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/head123456.svg",
+      "PackagePath": "staticwebassets/head123456.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/head_image.png",
+      "PackagePath": "staticwebassets/head_image.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/headsvg.svg",
+      "PackagePath": "staticwebassets/headsvg.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image10.png",
+      "PackagePath": "staticwebassets/image10.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image11.png",
+      "PackagePath": "staticwebassets/image11.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image12.png",
+      "PackagePath": "staticwebassets/image12.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image13.png",
+      "PackagePath": "staticwebassets/image13.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image14.png",
+      "PackagePath": "staticwebassets/image14.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image15.png",
+      "PackagePath": "staticwebassets/image15.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image17.png",
+      "PackagePath": "staticwebassets/image17.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image18.png",
+      "PackagePath": "staticwebassets/image18.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image19.png",
+      "PackagePath": "staticwebassets/image19.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image4.png",
+      "PackagePath": "staticwebassets/image4.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image6.png",
+      "PackagePath": "staticwebassets/image6.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image7.png",
+      "PackagePath": "staticwebassets/image7.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/image8.png",
+      "PackagePath": "staticwebassets/image8.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/android-chrome-192x192.png",
+      "PackagePath": "staticwebassets/img/android-chrome-192x192.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/android-chrome-512x512.png",
+      "PackagePath": "staticwebassets/img/android-chrome-512x512.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/about-pic-1.png",
+      "PackagePath": "staticwebassets/img/content/about-pic-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/about-pic-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/about-pic-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/about-pic.png",
+      "PackagePath": "staticwebassets/img/content/about-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/about-pic@2x.png",
+      "PackagePath": "staticwebassets/img/content/about-pic@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/android.svg",
+      "PackagePath": "staticwebassets/img/content/android.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/apple.png",
+      "PackagePath": "staticwebassets/img/content/apple.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/apple.svg",
+      "PackagePath": "staticwebassets/img/content/apple.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/apple@2x.png",
+      "PackagePath": "staticwebassets/img/content/apple@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/avatar-1.png",
+      "PackagePath": "staticwebassets/img/content/avatar-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/avatar-2.png",
+      "PackagePath": "staticwebassets/img/content/avatar-2.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/avatar-3.png",
+      "PackagePath": "staticwebassets/img/content/avatar-3.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/avatar-4.png",
+      "PackagePath": "staticwebassets/img/content/avatar-4.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/avatar-5.png",
+      "PackagePath": "staticwebassets/img/content/avatar-5.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/avatar-6.png",
+      "PackagePath": "staticwebassets/img/content/avatar-6.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bag.png",
+      "PackagePath": "staticwebassets/img/content/bag.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bag@2x.png",
+      "PackagePath": "staticwebassets/img/content/bag@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball-black.png",
+      "PackagePath": "staticwebassets/img/content/ball-black.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball-black@2x.png",
+      "PackagePath": "staticwebassets/img/content/ball-black@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball-green-1.png",
+      "PackagePath": "staticwebassets/img/content/ball-green-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball-green-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/ball-green-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball-green.png",
+      "PackagePath": "staticwebassets/img/content/ball-green.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball-green@2x.png",
+      "PackagePath": "staticwebassets/img/content/ball-green@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball-red.png",
+      "PackagePath": "staticwebassets/img/content/ball-red.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball-red@2x.png",
+      "PackagePath": "staticwebassets/img/content/ball-red@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball.png",
+      "PackagePath": "staticwebassets/img/content/ball.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/ball@2x.png",
+      "PackagePath": "staticwebassets/img/content/ball@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/book-pic-dark.png",
+      "PackagePath": "staticwebassets/img/content/book-pic-dark.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/book-pic-dark@2x.png",
+      "PackagePath": "staticwebassets/img/content/book-pic-dark@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/book-pic.png",
+      "PackagePath": "staticwebassets/img/content/book-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/book-pic@2x.png",
+      "PackagePath": "staticwebassets/img/content/book-pic@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bottle-1.png",
+      "PackagePath": "staticwebassets/img/content/bottle-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bottle-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/bottle-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bottle-2.png",
+      "PackagePath": "staticwebassets/img/content/bottle-2.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bottle-2@2x.png",
+      "PackagePath": "staticwebassets/img/content/bottle-2@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bottle-circle.png",
+      "PackagePath": "staticwebassets/img/content/bottle-circle.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bottle-circle@2x.png",
+      "PackagePath": "staticwebassets/img/content/bottle-circle@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bottle.png",
+      "PackagePath": "staticwebassets/img/content/bottle.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/bottle@2x.png",
+      "PackagePath": "staticwebassets/img/content/bottle@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-1.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-2.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-2.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-2@2x.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-2@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-3.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-3.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-3@2x.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-3@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-4.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-4.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-4@2x.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-4@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-5.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-5.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-5@2x.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-5@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-6.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-6.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/card-pic-6@2x.png",
+      "PackagePath": "staticwebassets/img/content/card-pic-6@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/download-pic-dark.png",
+      "PackagePath": "staticwebassets/img/content/download-pic-dark.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/download-pic-dark@2x.png",
+      "PackagePath": "staticwebassets/img/content/download-pic-dark@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/download-pic.png",
+      "PackagePath": "staticwebassets/img/content/download-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/download-pic@2x.png",
+      "PackagePath": "staticwebassets/img/content/download-pic@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/download.svg",
+      "PackagePath": "staticwebassets/img/content/download.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/dumbbell-dark.png",
+      "PackagePath": "staticwebassets/img/content/dumbbell-dark.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/dumbbell-dark@2x.png",
+      "PackagePath": "staticwebassets/img/content/dumbbell-dark@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/dumbbell.png",
+      "PackagePath": "staticwebassets/img/content/dumbbell.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/dumbbell@2x.png",
+      "PackagePath": "staticwebassets/img/content/dumbbell@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/dumbbells.png",
+      "PackagePath": "staticwebassets/img/content/dumbbells.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/dumbbells@2x.png",
+      "PackagePath": "staticwebassets/img/content/dumbbells@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/electrical-plug.svg",
+      "PackagePath": "staticwebassets/img/content/electrical-plug.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/facebook.svg",
+      "PackagePath": "staticwebassets/img/content/facebook.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/faq-pic.png",
+      "PackagePath": "staticwebassets/img/content/faq-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/faq-pic@2x.png",
+      "PackagePath": "staticwebassets/img/content/faq-pic@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/flag.svg",
+      "PackagePath": "staticwebassets/img/content/flag.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/gloves-circle.png",
+      "PackagePath": "staticwebassets/img/content/gloves-circle.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/gloves-circle@2x.png",
+      "PackagePath": "staticwebassets/img/content/gloves-circle@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/gloves.png",
+      "PackagePath": "staticwebassets/img/content/gloves.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/gloves@2x.png",
+      "PackagePath": "staticwebassets/img/content/gloves@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/goldlines.svg",
+      "PackagePath": "staticwebassets/img/content/goldlines.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/hand-grip-circle.png",
+      "PackagePath": "staticwebassets/img/content/hand-grip-circle.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/hand-grip-circle@2x.png",
+      "PackagePath": "staticwebassets/img/content/hand-grip-circle@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/header-pic-1.png",
+      "PackagePath": "staticwebassets/img/content/header-pic-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/header-pic-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/header-pic-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/header-pic-2.png",
+      "PackagePath": "staticwebassets/img/content/header-pic-2.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/header-pic-2@2x.png",
+      "PackagePath": "staticwebassets/img/content/header-pic-2@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/header-pic-3.png",
+      "PackagePath": "staticwebassets/img/content/header-pic-3.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/header-pic-3@2x.png",
+      "PackagePath": "staticwebassets/img/content/header-pic-3@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/header-pic-4.png",
+      "PackagePath": "staticwebassets/img/content/header-pic-4.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/header-pic-4@2x.png",
+      "PackagePath": "staticwebassets/img/content/header-pic-4@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/history-pic.png",
+      "PackagePath": "staticwebassets/img/content/history-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-1.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-2.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-2.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-2@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-2@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-3.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-3.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-3@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-3@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-4.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-4.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-4@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-4@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-5.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-5.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-5@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-5@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-6.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-6.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-photo-6@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-photo-6@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-pic-1.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-pic-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-pic-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-pic-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-pic-2.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-pic-2.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-pic-2@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-pic-2@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-pic-3.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-pic-3.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lifestyle-pic-3@2x.png",
+      "PackagePath": "staticwebassets/img/content/lifestyle-pic-3@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/lightning.svg",
+      "PackagePath": "staticwebassets/img/content/lightning.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/main-pic-1.png",
+      "PackagePath": "staticwebassets/img/content/main-pic-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/main-pic-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/main-pic-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/main-pic-dark-1.png",
+      "PackagePath": "staticwebassets/img/content/main-pic-dark-1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/main-pic-dark-1@2x.png",
+      "PackagePath": "staticwebassets/img/content/main-pic-dark-1@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/main-pic-dark.png",
+      "PackagePath": "staticwebassets/img/content/main-pic-dark.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/main-pic-dark@2x.png",
+      "PackagePath": "staticwebassets/img/content/main-pic-dark@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/main-pic.png",
+      "PackagePath": "staticwebassets/img/content/main-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/main-pic@2x.png",
+      "PackagePath": "staticwebassets/img/content/main-pic@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/medal-1.svg",
+      "PackagePath": "staticwebassets/img/content/medal-1.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/medal.svg",
+      "PackagePath": "staticwebassets/img/content/medal.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/mouse.svg",
+      "PackagePath": "staticwebassets/img/content/mouse.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/phones-dark.png",
+      "PackagePath": "staticwebassets/img/content/phones-dark.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/phones-dark@2x.png",
+      "PackagePath": "staticwebassets/img/content/phones-dark@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/phones.png",
+      "PackagePath": "staticwebassets/img/content/phones.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/phones@2x.png",
+      "PackagePath": "staticwebassets/img/content/phones@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/plate.png",
+      "PackagePath": "staticwebassets/img/content/plate.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/plate@2x.png",
+      "PackagePath": "staticwebassets/img/content/plate@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/plates.png",
+      "PackagePath": "staticwebassets/img/content/plates.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/plates@2x.png",
+      "PackagePath": "staticwebassets/img/content/plates@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/post-pic.png",
+      "PackagePath": "staticwebassets/img/content/post-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/racket-dark.png",
+      "PackagePath": "staticwebassets/img/content/racket-dark.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/racket-dark@2x.png",
+      "PackagePath": "staticwebassets/img/content/racket-dark@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/racket.png",
+      "PackagePath": "staticwebassets/img/content/racket.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/racket@2x.png",
+      "PackagePath": "staticwebassets/img/content/racket@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/rotashow.svg",
+      "PackagePath": "staticwebassets/img/content/rotashow.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/stopwatch.svg",
+      "PackagePath": "staticwebassets/img/content/stopwatch.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/story-pic.png",
+      "PackagePath": "staticwebassets/img/content/story-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/trainer-pic.png",
+      "PackagePath": "staticwebassets/img/content/trainer-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/trainer-pic@2x.png",
+      "PackagePath": "staticwebassets/img/content/trainer-pic@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/travelers.svg",
+      "PackagePath": "staticwebassets/img/content/travelers.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/user-green.svg",
+      "PackagePath": "staticwebassets/img/content/user-green.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/user.svg",
+      "PackagePath": "staticwebassets/img/content/user.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/velocity9.svg",
+      "PackagePath": "staticwebassets/img/content/velocity9.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/watch-dark.png",
+      "PackagePath": "staticwebassets/img/content/watch-dark.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/watch-dark@2x.png",
+      "PackagePath": "staticwebassets/img/content/watch-dark@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/watch.png",
+      "PackagePath": "staticwebassets/img/content/watch.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/watch@2x.png",
+      "PackagePath": "staticwebassets/img/content/watch@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/waves.svg",
+      "PackagePath": "staticwebassets/img/content/waves.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/whistle.svg",
+      "PackagePath": "staticwebassets/img/content/whistle.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/windows.svg",
+      "PackagePath": "staticwebassets/img/content/windows.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/workout-pic.png",
+      "PackagePath": "staticwebassets/img/content/workout-pic.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/workout-pic@2x.png",
+      "PackagePath": "staticwebassets/img/content/workout-pic@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/yoga-mat.png",
+      "PackagePath": "staticwebassets/img/content/yoga-mat.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/content/yoga-mat@2x.png",
+      "PackagePath": "staticwebassets/img/content/yoga-mat@2x.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/favicon-16x16.png",
+      "PackagePath": "staticwebassets/img/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/favicon-32x32.png",
+      "PackagePath": "staticwebassets/img/favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/favicon.ico",
+      "PackagePath": "staticwebassets/img/favicon.ico"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/fb-og-image.png",
+      "PackagePath": "staticwebassets/img/fb-og-image.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/logo-dark.svg",
+      "PackagePath": "staticwebassets/img/logo-dark.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/logo-light.svg",
+      "PackagePath": "staticwebassets/img/logo-light.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/menu-class.svg",
+      "PackagePath": "staticwebassets/img/menu-class.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/menu-video.svg",
+      "PackagePath": "staticwebassets/img/menu-video.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/mstile-150x150.png",
+      "PackagePath": "staticwebassets/img/mstile-150x150.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets/img/safari-pinned-tab.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/site.webmanifest",
+      "PackagePath": "staticwebassets/img/site.webmanifest"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/img/twitter-card.png",
+      "PackagePath": "staticwebassets/img/twitter-card.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/inbanner.png",
+      "PackagePath": "staticwebassets/inbanner.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/inbanner.svg",
+      "PackagePath": "staticwebassets/inbanner.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/inbanner004.png",
+      "PackagePath": "staticwebassets/inbanner004.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/inbannervideo.svg",
+      "PackagePath": "staticwebassets/inbannervideo.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/inpage-video-ads-6f48f29c7b3961b26f22c581e9055520.svg",
+      "PackagePath": "staticwebassets/inpage-video-ads-6f48f29c7b3961b26f22c581e9055520.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/inpage-video-ads.png",
+      "PackagePath": "staticwebassets/inpage-video-ads.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/instream.svg",
+      "PackagePath": "staticwebassets/instream.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/instream001.png",
+      "PackagePath": "staticwebassets/instream001.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/instream002.png",
+      "PackagePath": "staticwebassets/instream002.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/instream123.png",
+      "PackagePath": "staticwebassets/instream123.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/js/app.js",
+      "PackagePath": "staticwebassets/js/app.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/js/lib/aos.js",
+      "PackagePath": "staticwebassets/js/lib/aos.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/js/lib/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/js/lib/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/js/lib/jquery.min.js",
+      "PackagePath": "staticwebassets/js/lib/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/js/lib/jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets/js/lib/jquery.nice-select.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/js/lib/slick.min.js",
+      "PackagePath": "staticwebassets/js/lib/slick.min.js"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/line.svg",
+      "PackagePath": "staticwebassets/line.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/logo_surf.png",
+      "PackagePath": "staticwebassets/logo_surf.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/logovk.png",
+      "PackagePath": "staticwebassets/logovk.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/newfinalhead.svg",
+      "PackagePath": "staticwebassets/newfinalhead.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/out1.png",
+      "PackagePath": "staticwebassets/out1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/outstream.png",
+      "PackagePath": "staticwebassets/outstream.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/outstream00000.png",
+      "PackagePath": "staticwebassets/outstream00000.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/outstreamvideo.svg",
+      "PackagePath": "staticwebassets/outstreamvideo.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/photo1.png",
+      "PackagePath": "staticwebassets/photo1.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/photo2.png",
+      "PackagePath": "staticwebassets/photo2.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/photo3.png",
+      "PackagePath": "staticwebassets/photo3.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/pixel.svg",
+      "PackagePath": "staticwebassets/pixel.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/player_small_01-833250b0f5e06483e9c11f026f7f6021.svg",
+      "PackagePath": "staticwebassets/player_small_01-833250b0f5e06483e9c11f026f7f6021.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/sceenlaptop.png",
+      "PackagePath": "staticwebassets/sceenlaptop.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/second element.png",
+      "PackagePath": "staticwebassets/second element.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/stack.svg",
+      "PackagePath": "staticwebassets/stack.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/stackvideo.svg",
+      "PackagePath": "staticwebassets/stackvideo.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/t1.svg",
+      "PackagePath": "staticwebassets/t1.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/t2.svg",
+      "PackagePath": "staticwebassets/t2.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/t3.svg",
+      "PackagePath": "staticwebassets/t3.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/t4.svg",
+      "PackagePath": "staticwebassets/t4.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/t5.svg",
+      "PackagePath": "staticwebassets/t5.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/t6.svg",
+      "PackagePath": "staticwebassets/t6.svg"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/test.png",
+      "PackagePath": "staticwebassets/test.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/vkreklama.png",
+      "PackagePath": "staticwebassets/vkreklama.png"
+    },
+    {
+      "Id": "/Users/ruslanpavlov/RiderProjects/VideoAd/VideoAd/wwwroot/yandexlogo.png",
+      "PackagePath": "staticwebassets/yandexlogo.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.VideoAd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.VideoAd.props",
+      "PackagePath": "build\\VideoAd.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.VideoAd.props",
+      "PackagePath": "buildMultiTargeting\\VideoAd.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.VideoAd.props",
+      "PackagePath": "buildTransitive\\VideoAd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
